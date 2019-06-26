@@ -1,2 +1,2 @@
 # project_list
-List of open source CEA LIST LASTI projects
+List of open source projects developed by CEA LIST LASTI.
